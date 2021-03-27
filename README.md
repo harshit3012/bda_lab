@@ -1,1 +1,5 @@
-# bda_lab
+## BDA Lab
+
+### Harshit Hiremath
+
+### 1BM18CS036
