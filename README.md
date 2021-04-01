@@ -1,4 +1,4 @@
-## BDA Lab
+## BDA Lab (6th Sem, 2020-21)
 
 ### Harshit Hiremath
 
